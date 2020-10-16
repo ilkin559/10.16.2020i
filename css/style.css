@@ -1,0 +1,18 @@
+header{
+    padding: 15px 0;
+}
+header .menu li a{
+    padding: 10px;
+    text-decoration: none;
+    color: #000000;
+}
+
+header .right-ico i{
+    margin-left: 8px;
+}
+.slider{
+    background: url(../photo/41.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
